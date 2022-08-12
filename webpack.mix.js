@@ -11,4 +11,3 @@ mix.js('resources/js/index.js', 'build/js')
         processCssUrls: false,
     })
     .version();
-Footer
