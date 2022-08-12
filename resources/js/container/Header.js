@@ -36,8 +36,8 @@ const pages = [
         name: "Sing Up",
     },
     {
-        url: "signin",
-        name: "Sign In",
+        url: "login",
+        name: "Log In",
     }
 ];
 
